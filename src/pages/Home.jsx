@@ -274,7 +274,7 @@ function Home() {
               </li>
             </ul>
 
-            <div className="flex justify-center gap-6 mb-8">
+            {/* <div className="flex justify-center gap-6 mb-8">
               <a
                 href="/login"
                 className="bg-black text-white px-8 py-3 rounded-lg shadow hover:bg-gray-700 transition"
@@ -287,7 +287,7 @@ function Home() {
               >
                 Sign Up
               </a>
-            </div>
+            </div> */}
           </Container>
         </div>
       </div>
